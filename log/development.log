@@ -357,3 +357,2387 @@ Browserify: /Users/ph03n1x/Documents/repo/HelpingHandsTest/node_modules/.bin/bro
 Completed 200 OK in 2861ms (Views: 2851.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:49:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-ut9nic" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-1w1j6f1" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-16ippu6" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-huviu4" -
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:49:38 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-x49n0b" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-1r5sapn" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-1s5wr15" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-4wvj6" -
+Completed 200 OK in 5716ms (Views: 5706.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2104ms (Views: 2101.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:50:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-1n6ftyv" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47780-lpxfxl" -
+Completed 200 OK in 1463ms (Views: 1459.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:52:51 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (10.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1kxhjh5" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-5gdq9w" -
+Completed 200 OK in 5664ms (Views: 5652.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:54:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1ck00r0" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1ktm1h1" -
+Completed 200 OK in 1791ms (Views: 1787.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:54:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1ulbwg" -
+Completed 500 Internal Server Error in 575ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1ulbwg" -`:
+
+events.js:177
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Cannot find module './HellowWorld.css' from '/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components'
+    at /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/browser-resolve/node_modules/resolve/lib/async.js:55:21
+    at load (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/browser-resolve/node_modules/resolve/lib/async.js:69:43)
+    at onex (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/browser-resolve/node_modules/resolve/lib/async.js:92:31)
+    at /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/browser-resolve/node_modules/resolve/lib/async.js:22:47
+    at FSReqCallback.oncomplete (fs.js:165:21)
+Emitted 'error' event at:
+    at DestroyableTransform.onerror (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/readable-stream/lib/_stream_readable.js:588:12)
+    at DestroyableTransform.emit (events.js:200:13)
+    at Readable.<anonymous> (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/browserify-cache-api/lib/proxyEvent.js:3:17)
+    at Readable.emit (events.js:200:13)
+    at Labeled.<anonymous> (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/read-only-stream/index.js:27:44)
+    at Labeled.emit (events.js:200:13)
+    at Labeled.<anonymous> (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/stream-splicer/index.js:133:18)
+    at Labeled.emit (events.js:200:13)
+    at Deps.<anonymous> (/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/stream-splicer/index.js:133:18)
+    at Deps.emit (events.js:200:13) {
+  stream: Labeled {
+    _readableState: ReadableState {
+      highWaterMark: 16,
+      buffer: [],
+      length: 0,
+      pipes: [Labeled],
+      pipesCount: 1,
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      objectMode: true,
+      defaultEncoding: 'utf8',
+      ranOut: false,
+      awaitDrain: 0,
+      readingMore: false,
+      decoder: null,
+      encoding: null,
+      resumeScheduled: false
+    },
+    readable: true,
+    _events: [Object: null prototype] {
+      end: [Array],
+      error: [Function],
+      data: [Function: ondata],
+      _mutate: [Function]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      highWaterMark: 16,
+      objectMode: true,
+      needDrain: false,
+      ending: true,
+      ended: true,
+      finished: true,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: false,
+      bufferProcessing: false,
+      onwrite: [Function],
+      writecb: null,
+      writelen: 0,
+      buffer: [],
+      pendingcb: 0,
+      prefinished: true,
+      errorEmitted: false
+    },
+    writable: true,
+    allowHalfOpen: true,
+    _options: { objectMode: true },
+    _wrapOptions: { objectMode: true },
+    _streams: [ [Deps], [DestroyableTransform], [DestroyableTransform] ],
+    length: 3,
+    label: 'deps'
+  }
+}
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__446735360673289852_70240916375060'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:54:54 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 39ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:55:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-qape6o" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-4tk6kg" -
+Completed 500 Internal Server Error in 887ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-4tk6kg" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components/HelloWorld.css:1
+.test{
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__446735360673289852_70240944506220'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.0ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:56:04 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 606ms (Views: 603.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:57:01 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 228ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (8:35)
+   6 |   render() {
+   7 |     const test = {
+>  8 |       border: '1px solid lightgray';
+     |                                    ^
+   9 |     }
+  10 |     return (
+  11 |       <div styles={test}'>):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__446735360673289852_70240895909460'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:57:11 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 225ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (8:35)
+   6 |   render() {
+   7 |     const test = {
+>  8 |       border: '1px solid lightgray';
+     |                                    ^
+   9 |     }
+  10 |     return (
+  11 |       <div styles={test}>):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__446735360673289852_70240918505320'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.4ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (62.2ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:57:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-gyre1l" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-2nu73u" -
+Completed 200 OK in 1714ms (Views: 1711.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:57:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-13dm9ch" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1nbrzhj" -
+Completed 200 OK in 1797ms (Views: 1794.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:57:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1rfvy0s" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-sj3sii" -
+Completed 200 OK in 1652ms (Views: 1649.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1s8sj80" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-n0glz4" -
+Completed 200 OK in 1715ms (Views: 1711.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:40 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-1mxz56g" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-47915-nbmg9p" -
+Completed 200 OK in 1875ms (Views: 1872.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 34ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 01:58:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 27ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:06:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.1ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-48631-14880j2" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-48631-18kfwwp" -
+Completed 200 OK in 2773ms (Views: 2763.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:07:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-48853-1987wo8" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-48853-1s0whgu" -
+Completed 200 OK in 2986ms (Views: 2977.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:09:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.1ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-1sdcbsl" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-hv8lbq" -
+Completed 200 OK in 2832ms (Views: 2822.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:10:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-d0a0tx" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-505ul3" -
+Completed 200 OK in 1704ms (Views: 1701.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:12:10 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-lua1zi" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-1em2yxv" -
+Completed 200 OK in 1746ms (Views: 1743.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:12:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-14mnu80" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-113ei2p" -
+Completed 500 Internal Server Error in 866ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-113ei2p" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/stylesheets/styles.css:1
+.test{
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__4590414412318162796_70294187392800'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.6ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:12:48 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-1s14z30" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-34ivgg" -
+Completed 500 Internal Server Error in 881ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-34ivgg" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/stylesheets/styles.css:1
+#test{
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__4590414412318162796_70294185013100'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.1ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:13:15 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:14:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:16 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 34ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 51ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 37ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:15:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 32ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:16:03 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 26.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:16:10 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:16:45 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-y7k6c1" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-cie0wc" -
+Completed 200 OK in 1695ms (Views: 1692.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:16:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-1jqschy" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49072-10wxq0f" -
+Completed 200 OK in 1739ms (Views: 1736.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:26:24 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (15.0ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-mrytfw" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1179gyz" -
+Completed 200 OK in 2932ms (Views: 2907.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:26:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-lsyvhg" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1ai4e9w" -
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:26:59 -0400
+Completed 200 OK in 1772ms (Views: 1769.4ms | ActiveRecord: 0.0ms)
+
+
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 34ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:26:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 74ms (Views: 71.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 30ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 29ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:27:01 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 31ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:33:47 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-agsuk8" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1v0xdr" -
+Completed 200 OK in 1855ms (Views: 1853.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:34:09 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1j458dn" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-hv1vq5" -
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:34:10 -0400
+Completed 200 OK in 1718ms (Views: 1715.4ms | ActiveRecord: 0.0ms)
+
+
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 38ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:34:19 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 63ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:34:20 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:34:27 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 47ms (Views: 44.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:35:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 235ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (8:6)
+   6 |   render() {
+   7 |     return (
+>  8 |       const testStyle = {
+     |       ^
+   9 | 
+  10 |       }
+  11 |       ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320570519020'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (68.6ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:35:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 225ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (8:6)
+   6 |   render() {
+   7 |     return (
+>  8 |       const testStyle = {
+     |       ^
+   9 | 
+  10 |       }
+  11 |       ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320527764820'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1c2xjx6" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1d3nn7w" -
+Completed 200 OK in 1658ms (Views: 1655.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 46ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:19 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:19 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 33ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:41 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-7cc64r" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-180233t" -
+Completed 200 OK in 1792ms (Views: 1790.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:36:56 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 52ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:39:38 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-125lq00" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1q8d6ah" -
+Completed 500 Internal Server Error in 888ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1q8d6ah" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components/HelloWorld.css:1
+.divStyle {
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320527502540'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.7ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:39:51 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-noq3sg" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-19e8c0i" -
+Completed 500 Internal Server Error in 856ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-19e8c0i" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components/HelloWorld.css:1
+.divStyle {
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320536709780'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (7.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.3ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:40:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-15vitsi" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-apny22" -
+Completed 500 Internal Server Error in 908ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-apny22" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components/helloWorld.css:1
+.divStyle {
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320583949060'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.3ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:40:22 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1b4c621" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1gakwuk" -
+Completed 500 Internal Server Error in 944ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error while running `/Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1gakwuk" -`:
+
+
+/Users/eshaanchaudhari/Downloads/Exercise-master/app/assets/javascripts/react/components/helloWorld.css:1
+.divStyle {
+^
+ParseError: Unexpected token
+):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1192728186337264660_70320568598700'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.2ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:48:12 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1k768xe" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-4td4li" -
+Completed 200 OK in 1751ms (Views: 1748.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:48:46 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1waa7lw" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-ls23zv" -
+Completed 200 OK in 1708ms (Views: 1705.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:49:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-a38igy" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1gx569x" -
+Completed 200 OK in 1756ms (Views: 1754.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:49:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-9ow9di" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1b1kgo8" -
+Completed 200 OK in 1667ms (Views: 1664.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:49:28 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1m6owhl" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-4u5szt" -
+Completed 200 OK in 1819ms (Views: 1816.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:49:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1p9w6kp" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1g284yu" -
+Completed 200 OK in 1666ms (Views: 1664.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:49:46 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-183rnx0" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1l47dyh" -
+Completed 200 OK in 1714ms (Views: 1711.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:50:04 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-hzd1li" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-io48c8" -
+Completed 200 OK in 1679ms (Views: 1675.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:50:19 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:51:24 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-133mdzd" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-jt7pd9" -
+Completed 200 OK in 1764ms (Views: 1762.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:51:32 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 38ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:51:38 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:51:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1mpu2rw" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-4x7zxy" -
+Completed 200 OK in 1710ms (Views: 1708.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:51:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:54:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-3pzk6o" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-380n99" -
+Completed 200 OK in 1682ms (Views: 1679.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:55:31 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-u46ow7" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1ung9bs" -
+Completed 200 OK in 1776ms (Views: 1774.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:55:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-umppo9" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1sod5ao" -
+Completed 200 OK in 1760ms (Views: 1758.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:55:45 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1nlumww" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-5hex3c" -
+Completed 200 OK in 1750ms (Views: 1748.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:55:55 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 38ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:56:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-16yq4v9" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-57l1uy" -
+Completed 200 OK in 1675ms (Views: 1672.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:56:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-18bgz8m" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-ou71di" -
+Completed 200 OK in 1874ms (Views: 1872.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:56:35 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-46iuok" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1ucdhrt" -
+Completed 200 OK in 1701ms (Views: 1699.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:56:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1com0xt" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1xoeyzu" -
+Completed 200 OK in 1784ms (Views: 1782.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:57:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-11rpc43" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1scd6p7" -
+Completed 200 OK in 1689ms (Views: 1687.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:57:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-yq0296" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1dstlhb" -
+Completed 200 OK in 1740ms (Views: 1738.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:57:40 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1lfvp79" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-trkayu" -
+Completed 200 OK in 1721ms (Views: 1719.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:57:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-eaqeap" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-bjucfh" -
+Completed 200 OK in 1707ms (Views: 1705.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:58:10 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-6p3072" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1t6f5e8" -
+Completed 200 OK in 1760ms (Views: 1757.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:58:22 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-10thdwm" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-19ybler" -
+Completed 200 OK in 1735ms (Views: 1733.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:59:11 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1k94vzx" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1krrwsh" -
+Completed 200 OK in 1694ms (Views: 1692.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:59:41 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-efj0vb" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1yma348" -
+Completed 200 OK in 1851ms (Views: 1848.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 02:59:49 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 31ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:00:11 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1ajt7up" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-49408-1h74i05" -
+Completed 200 OK in 1758ms (Views: 1756.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:00:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:00:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 32ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:00:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:03:09 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.0ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-159av7q" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1ar0hmw" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-xmvqt4" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-z87dre" -
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:03:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-b3lt1q" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1kv4q10" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-d878gx" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1trkzri" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1d5ronf" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-gyovt2" -
+Completed 200 OK in 6227ms (Views: 6217.2ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 2638ms (Views: 2635.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:03:18 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 32ms (Views: 29.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:03:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-r5q1e" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1ko1wg9" -
+Completed 200 OK in 1675ms (Views: 1673.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:04:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-5khgiu" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1ujjf4j" -
+Completed 200 OK in 1689ms (Views: 1687.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:05:54 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-lunuig" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1qoqjhf" -
+Completed 200 OK in 1732ms (Views: 1730.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:06:04 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1ejpvi7" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1pi1ua9" -
+Completed 200 OK in 1765ms (Views: 1762.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:06:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 38ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:06:44 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-mj513w" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-3qjx31" -
+Completed 200 OK in 1698ms (Views: 1696.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:07:14 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 40ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:07:39 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 230ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (19:27)
+  17 |       <div style={divStyle}>
+  18 |         <h1>Helping Hands Test</h1>
+> 19 |         <p style={{fontSize='20px'}}>Hello World</p>
+     |                            ^
+  20 |         <Button variant='contained' color='primary'>Hello World</Button>
+  21 |       </div>
+  22 |     )):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2245303964457231824_70304672075540'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (68.6ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:07:49 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-malkut" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-mlfuaz" -
+Completed 200 OK in 1735ms (Views: 1733.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:09:25 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-qzrrb" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50369-1hrzony" -
+Completed 200 OK in 1705ms (Views: 1703.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:09:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 199ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (19:27)
+  17 |       <div style={divStyle}>
+  18 |         <h1>Helping Hands Test</h1>
+> 19 |         <p style={{fontSize='20px'}}>Hello World</p>
+     |                            ^
+  20 |         <Button variant='contained' color='primary'>Hello World</Button>
+  21 |       </div>
+  22 |     )):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___2245303964457231824_70304648390680'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.9ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:09:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 37ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:10:36 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:10:42 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:17:06 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-9lbvqx" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-24t3h" -
+Completed 200 OK in 2732ms (Views: 2720.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:18:26 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-kpyw9s" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-famo91" -
+Completed 200 OK in 1781ms (Views: 1778.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:18:35 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-upy345" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1sbqdlr" -
+Completed 200 OK in 1810ms (Views: 1806.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:19:02 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1qqwhxz" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1dycnnc" -
+Completed 200 OK in 1706ms (Views: 1702.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:19:48 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-rflzjz" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-czdvu5" -
+Completed 200 OK in 1757ms (Views: 1755.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:19:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-10xcljh" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1yrnzoe" -
+Completed 200 OK in 1864ms (Views: 1861.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:21:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-153emfl" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1c3xr1x" -
+Completed 200 OK in 1757ms (Views: 1754.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:21:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1fxaglq" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-13wkv65" -
+Completed 200 OK in 1779ms (Views: 1776.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:22:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1iv1lto" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-tkm2n6" -
+Completed 200 OK in 1704ms (Views: 1701.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:26:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 218ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = () => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333884361500'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.1ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:26:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 226ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = () => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333916548180'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (63.3ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:26:45 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 204ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = () => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333915583300'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.1ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (59.1ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:26:52 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 212ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = () => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333848747160'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.3ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:27:15 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 215ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333914730620'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.7ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:27:42 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 219ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333909208200'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (8.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (65.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:28:07 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 299ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333900630360'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:28:16 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 249ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('Congratulations you made it'));
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333908639340'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.5ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (77.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:29:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-18scksm" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-eqanod" -
+Completed 200 OK in 1873ms (Views: 1871.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:30:21 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1s19v9z" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-15c3sot" -
+Completed 200 OK in 1797ms (Views: 1795.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:30:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1v5aa23" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-50871-1ftae6f" -
+Completed 200 OK in 1773ms (Views: 1770.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:31:31 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 218ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('hi');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333872055240'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.2ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:31:54 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 235ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('hi');
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333849555400'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.0ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:32:17 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 222ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('hi'));
+  25 |   }
+  26 | ):
+     5:     <%= csrf_meta_tags %>
+     6: 
+     7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+     9:   </head>
+    10: 
+    11:   <body>
+  
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___1961659925102094833_70333849039520'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.1ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (66.0ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:34:24 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.7ms)
+Completed 500 Internal Server Error in 710ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('hi'));
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148513993120'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.1ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (71.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:34:27 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 201ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('hi'));
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148536719900'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.0ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.6ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:34:34 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 332ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('hi'));
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148556374280'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (9.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (105.1ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:34:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 223ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     return(alert('hi'));
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148539302320'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (64.1ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:35:16 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 216ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('hi');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148516698420'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (57.5ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:35:43 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 204ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('hi');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148553050820'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.1ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (66.2ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:36:04 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 213ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('hi');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2771515498331238343_70148500094340'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (62.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:36:41 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51422-1358uy9" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51422-lzdtzt" -
+Completed 200 OK in 2225ms (Views: 2221.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:39:33 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 742ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2335829601312806564_70204910284480'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (69.4ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:39:58 -0400
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:40:08 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 500 Internal Server Error in 214ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2335829601312806564_70204922748880'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.7ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.3ms)
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 238ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = (event) => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2335829601312806564_70204922748880'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.6ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (56.9ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:40:30 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 218ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (23:14)
+  21 | 
+  22 | class HelloWorld extends React.Component {
+> 23 |   buttonEvent = () => {
+     |               ^
+  24 |     alert('Congratulations you made it');
+  25 |   }
+  26 | ):
+    4:     <title>HelpingHandsTest</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__2335829601312806564_70204990281500'
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.2ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Library/Ruby/Gems/2.3.0/gems/actionpack-5.0.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.0ms)
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:40:50 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51688-15xxpl1" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51688-woi7ck" -
+Completed 200 OK in 2227ms (Views: 2225.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:41:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51688-1vlpliz" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51688-16of0ir" -
+Completed 200 OK in 1722ms (Views: 1718.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:44:37 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51863-1pixuby" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51863-1hplg8w" -
+Completed 200 OK in 2825ms (Views: 2815.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:44:53 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 51ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:45:00 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51863-vmrzfd" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-51863-14pjrup" -
+Completed 200 OK in 1777ms (Views: 1774.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 03:46:15 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:17:55 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (7.5ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-g1uc19" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-iics2s" -
+Completed 200 OK in 2831ms (Views: 2821.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:18:31 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-18m1ezy" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-1db4dcb" -
+Completed 200 OK in 1749ms (Views: 1746.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:19:29 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-n7k03i" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-1veo5v7" -
+Completed 200 OK in 1783ms (Views: 1779.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:19:40 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc --list --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-6zknzv" -
+Browserify: /Users/eshaanchaudhari/Downloads/Exercise-master/node_modules/.bin/browserifyinc  --cachefile=/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/browserifyinc-cache.json -o "/Users/eshaanchaudhari/Downloads/Exercise-master/tmp/cache/browserify-rails/output20190622-555-1vp1quz" -
+Completed 200 OK in 1805ms (Views: 1802.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:20:51 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 132ms (Views: 129.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:22:56 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 39ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2019-06-22 14:22:57 -0400
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 32ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
